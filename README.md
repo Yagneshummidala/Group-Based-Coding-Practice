@@ -93,6 +93,14 @@ Group-Based-Coding-Practice/
 
 ---
 
+---
+
+### 🧬 User Cluster Visualization (180D ➝ 2D PCA)
+
+![User Clusters](visualization/cluster_plot.png)
+
+---
+
 ## 🚀 Getting Started
 
 1. Install dependencies:  
