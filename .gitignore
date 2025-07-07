@@ -8,3 +8,4 @@ scrapers/test_sample/
 .DS_Store
 Thumbs.db
 groups/*.json
+test_sample/*.json
