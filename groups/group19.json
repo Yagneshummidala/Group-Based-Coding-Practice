@@ -1,0 +1,680 @@
+{
+    "groupname": "Group19",
+    "groupSize": 4,
+    "groupMembers": [
+        "Thaniparthi_Thanishk",
+        "Prathyusha_Vaddadi",
+        "Boda_Sai_Dinesh",
+        "Avani_Payasi"
+    ],
+    "totalData": {
+        "platforms": {
+            "leetcode": {
+                "total_submissions": 813,
+                "correct_submissions": 461,
+                "wrong_submissions": 352,
+                "unique_problems_solved": 461,
+                "tags_summary": {
+                    "array": 225,
+                    "matrix": 23,
+                    "string": 111,
+                    "simulation": 36,
+                    "enumeration": 6,
+                    "sorting": 50,
+                    "stack": 18,
+                    "linked_list": 33,
+                    "two_pointers": 62,
+                    "tree": 36,
+                    "binarytree": 36,
+                    "hash_table": 86,
+                    "greedy": 13,
+                    "binary_search": 42,
+                    "dfs": 29,
+                    "recursion": 26,
+                    "slidingwindow": 8,
+                    "bit_manipulation": 40,
+                    "math": 125,
+                    "special": 3,
+                    "gametheory": 5,
+                    "dp": 25,
+                    "divide_and_conquer": 14,
+                    "trie": 4,
+                    "queue": 5,
+                    "breadthfirstsearch": 13,
+                    "design": 4,
+                    "backtracking": 9,
+                    "monotonicstack": 1,
+                    "rollinghash": 1,
+                    "monotonicqueue": 1
+                },
+                "difficulty_summary": {
+                    "Easy": 338,
+                    "Medium": 117,
+                    "Hard": 6
+                },
+                "language_summary": {
+                    "c++": 147,
+                    "java": 299,
+                    "c": 8,
+                    "python": 7
+                }
+            },
+            "codeforces": {
+                "total_submissions": 181,
+                "correct_submissions": 94,
+                "wrong_submissions": 87,
+                "unique_problems_solved": 92,
+                "tags_summary": {
+                    "brute_force": 22,
+                    "math": 20,
+                    "greedy": 17,
+                    "implementation": 64,
+                    "sorting": 9,
+                    "gametheory": 1,
+                    "bit_manipulation": 3,
+                    "string": 23,
+                    "numbertheory": 1,
+                    "constructivealgorithms": 1,
+                    "graphmatchings": 1,
+                    "shortestpaths": 1,
+                    "special": 1,
+                    "data_structures": 1,
+                    "binary_search": 2,
+                    "two_pointers": 1,
+                    "probability": 1,
+                    "geometry": 1
+                },
+                "difficulty_summary": {
+                    "Easy": 91,
+                    "Medium": 1
+                },
+                "language_summary": {
+                    "c++23gcc1464,msys2": 1,
+                    "c++": 72,
+                    "c": 43,
+                    "java21": 50,
+                    "c++14gcc632": 5,
+                    "python": 2,
+                    "monoc#": 3,
+                    "c#10": 1,
+                    "c#8": 1,
+                    "java": 3
+                }
+            }
+        },
+        "aggregated_data": {
+            "total_submissions": 994,
+            "correct_submissions": 555,
+            "wrong_submissions": 439,
+            "unique_problems_solved": 553,
+            "tags_summary": {
+                "array": 225,
+                "matrix": 23,
+                "string": 134,
+                "simulation": 36,
+                "enumeration": 6,
+                "sorting": 59,
+                "stack": 18,
+                "linked_list": 33,
+                "two_pointers": 63,
+                "tree": 36,
+                "binarytree": 36,
+                "hash_table": 86,
+                "greedy": 30,
+                "binary_search": 44,
+                "dfs": 29,
+                "recursion": 26,
+                "slidingwindow": 8,
+                "bit_manipulation": 43,
+                "math": 145,
+                "special": 4,
+                "gametheory": 6,
+                "dp": 25,
+                "divide_and_conquer": 14,
+                "trie": 4,
+                "brute_force": 22,
+                "implementation": 64,
+                "numbertheory": 1,
+                "constructivealgorithms": 1,
+                "graphmatchings": 1,
+                "shortestpaths": 1,
+                "queue": 5,
+                "breadthfirstsearch": 13,
+                "design": 4,
+                "backtracking": 9,
+                "monotonicstack": 1,
+                "data_structures": 1,
+                "rollinghash": 1,
+                "monotonicqueue": 1,
+                "probability": 1,
+                "geometry": 1
+            },
+            "difficulty_summary": {
+                "Easy": 429,
+                "Medium": 118,
+                "Hard": 6
+            },
+            "language_summary": {
+                "c++": 219,
+                "java": 302,
+                "c": 51,
+                "python": 9,
+                "c++23gcc1464,msys2": 1,
+                "java21": 50,
+                "c++14gcc632": 5,
+                "monoc#": 3,
+                "c#10": 1,
+                "c#8": 1
+            }
+        }
+    },
+    "users": {
+        "Thaniparthi_Thanishk": {
+            "leetcode": "thanishkrao",
+            "codeforces": "thanishkrao_",
+            "data": {
+                "platforms": {
+                    "leetcode": {
+                        "total_submissions": 195,
+                        "correct_submissions": 100,
+                        "wrong_submissions": 95,
+                        "unique_problems_solved": 100,
+                        "tags_summary": {
+                            "Array": 54,
+                            "Matrix": 10,
+                            "String": 25,
+                            "Simulation": 14,
+                            "Enumeration": 2,
+                            "Sorting": 11,
+                            "Stack": 1,
+                            "Linked List": 6,
+                            "Two Pointers": 10,
+                            "Tree": 1,
+                            "Binary Tree": 1,
+                            "Hash Table": 18,
+                            "Greedy": 5,
+                            "Binary Search": 8,
+                            "Depth-First Search": 1,
+                            "Recursion": 5,
+                            "Sliding Window": 3,
+                            "Bit Manipulation": 7,
+                            "Math": 31,
+                            "Brainteaser": 2,
+                            "Game Theory": 3,
+                            "Dynamic Programming": 5,
+                            "Divide and Conquer": 3,
+                            "Trie": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 86,
+                            "Medium": 14,
+                            "Hard": 0
+                        },
+                        "language_summary": {
+                            "C++": 20,
+                            "Java": 75,
+                            "C": 4,
+                            "Python3": 1
+                        }
+                    },
+                    "codeforces": {
+                        "total_submissions": 39,
+                        "correct_submissions": 16,
+                        "wrong_submissions": 23,
+                        "unique_problems_solved": 16,
+                        "tags_summary": {
+                            "brute_force": 5,
+                            "math": 4,
+                            "greedy": 3,
+                            "implementation": 10,
+                            "sorting": 1,
+                            "game_theory": 1,
+                            "bit_manipulation": 2,
+                            "string": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 16
+                        },
+                        "language_summary": {
+                            "c++23gcc1464,msys2": 1,
+                            "c++": 1,
+                            "c": 29,
+                            "java21": 3,
+                            "c++14gcc632": 4,
+                            "python": 1
+                        }
+                    }
+                },
+                "aggregated_data": {
+                    "total_submissions": 234,
+                    "correct_submissions": 116,
+                    "wrong_submissions": 118,
+                    "unique_problems_solved": 116,
+                    "tags_summary": {
+                        "array": 54,
+                        "matrix": 10,
+                        "string": 26,
+                        "simulation": 14,
+                        "enumeration": 2,
+                        "sorting": 12,
+                        "stack": 1,
+                        "linked_list": 6,
+                        "two_pointers": 10,
+                        "tree": 1,
+                        "binarytree": 1,
+                        "hash_table": 18,
+                        "greedy": 8,
+                        "binary_search": 8,
+                        "dfs": 1,
+                        "recursion": 5,
+                        "slidingwindow": 3,
+                        "bit_manipulation": 9,
+                        "math": 35,
+                        "special": 2,
+                        "gametheory": 4,
+                        "dp": 5,
+                        "divide_and_conquer": 3,
+                        "trie": 1,
+                        "brute_force": 5,
+                        "implementation": 10
+                    },
+                    "difficulty_summary": {
+                        "Easy": 102,
+                        "Medium": 14,
+                        "Hard": 0
+                    },
+                    "language_summary": {
+                        "c++": 21,
+                        "java": 75,
+                        "c": 33,
+                        "python": 2,
+                        "c++23gcc1464,msys2": 1,
+                        "java21": 3,
+                        "c++14gcc632": 4
+                    }
+                }
+            }
+        },
+        "Prathyusha_Vaddadi": {
+            "leetcode": "Prathyusha0803",
+            "codeforces": "vaddadipratyusha",
+            "data": {
+                "platforms": {
+                    "leetcode": {
+                        "total_submissions": 68,
+                        "correct_submissions": 60,
+                        "wrong_submissions": 8,
+                        "unique_problems_solved": 60,
+                        "tags_summary": {
+                            "Array": 31,
+                            "Matrix": 3,
+                            "String": 13,
+                            "Simulation": 5,
+                            "Sorting": 11,
+                            "Stack": 3,
+                            "Linked List": 4,
+                            "Two Pointers": 6,
+                            "Tree": 4,
+                            "Binary Tree": 4,
+                            "Hash Table": 16,
+                            "Greedy": 2,
+                            "Binary Search": 6,
+                            "Depth-First Search": 4,
+                            "Recursion": 3,
+                            "Sliding Window": 1,
+                            "Bit Manipulation": 3,
+                            "Math": 22,
+                            "Dynamic Programming": 2,
+                            "Divide and Conquer": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 39,
+                            "Medium": 18,
+                            "Hard": 3
+                        },
+                        "language_summary": {
+                            "C++": 53,
+                            "Java": 5,
+                            "C": 2
+                        }
+                    },
+                    "codeforces": {
+                        "total_submissions": 71,
+                        "correct_submissions": 45,
+                        "wrong_submissions": 26,
+                        "unique_problems_solved": 43,
+                        "tags_summary": {
+                            "math": 8,
+                            "implementation": 31,
+                            "brute_force": 8,
+                            "numbertheory": 1,
+                            "greedy": 6,
+                            "string": 13,
+                            "sorting": 3,
+                            "constructivealgorithms": 1,
+                            "graphmatchings": 1,
+                            "shortestpaths": 1,
+                            "special": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 42,
+                            "Medium": 1
+                        },
+                        "language_summary": {
+                            "c++": 64,
+                            "python": 1,
+                            "c": 5,
+                            "c++14gcc632": 1
+                        }
+                    }
+                },
+                "aggregated_data": {
+                    "total_submissions": 139,
+                    "correct_submissions": 105,
+                    "wrong_submissions": 34,
+                    "unique_problems_solved": 103,
+                    "tags_summary": {
+                        "array": 31,
+                        "matrix": 3,
+                        "string": 26,
+                        "simulation": 5,
+                        "sorting": 14,
+                        "stack": 3,
+                        "linked_list": 4,
+                        "two_pointers": 6,
+                        "tree": 4,
+                        "binarytree": 4,
+                        "hash_table": 16,
+                        "greedy": 8,
+                        "binary_search": 6,
+                        "dfs": 4,
+                        "recursion": 3,
+                        "slidingwindow": 1,
+                        "bit_manipulation": 3,
+                        "math": 30,
+                        "dp": 2,
+                        "divide_and_conquer": 1,
+                        "implementation": 31,
+                        "brute_force": 8,
+                        "numbertheory": 1,
+                        "constructivealgorithms": 1,
+                        "graphmatchings": 1,
+                        "shortestpaths": 1,
+                        "special": 1
+                    },
+                    "difficulty_summary": {
+                        "Easy": 81,
+                        "Medium": 19,
+                        "Hard": 3
+                    },
+                    "language_summary": {
+                        "c++": 117,
+                        "java": 5,
+                        "c": 7,
+                        "python": 1,
+                        "c++14gcc632": 1
+                    }
+                }
+            }
+        },
+        "Boda_Sai_Dinesh": {
+            "leetcode": "sai_1412",
+            "codeforces": "sai_1412",
+            "data": {
+                "platforms": {
+                    "leetcode": {
+                        "total_submissions": 121,
+                        "correct_submissions": 80,
+                        "wrong_submissions": 41,
+                        "unique_problems_solved": 80,
+                        "tags_summary": {
+                            "Array": 39,
+                            "Matrix": 2,
+                            "String": 17,
+                            "Simulation": 5,
+                            "Enumeration": 1,
+                            "Sorting": 7,
+                            "Stack": 5,
+                            "Queue": 1,
+                            "Linked List": 10,
+                            "Two Pointers": 14,
+                            "Tree": 9,
+                            "Binary Tree": 9,
+                            "Hash Table": 7,
+                            "Greedy": 1,
+                            "Binary Search": 8,
+                            "Depth-First Search": 7,
+                            "Breadth-First Search": 3,
+                            "Recursion": 8,
+                            "Bit Manipulation": 11,
+                            "Math": 16,
+                            "Design": 1,
+                            "Backtracking": 2,
+                            "Dynamic Programming": 6,
+                            "Divide and Conquer": 5,
+                            "Trie": 1,
+                            "Monotonic Stack": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 47,
+                            "Medium": 32,
+                            "Hard": 1
+                        },
+                        "language_summary": {
+                            "C++": 74,
+                            "Python": 1,
+                            "Python3": 5
+                        }
+                    },
+                    "codeforces": {
+                        "total_submissions": 12,
+                        "correct_submissions": 4,
+                        "wrong_submissions": 8,
+                        "unique_problems_solved": 4,
+                        "tags_summary": {
+                            "data_structures": 1,
+                            "implementation": 3,
+                            "sorting": 2,
+                            "greedy": 1,
+                            "string": 1,
+                            "brute_force": 1,
+                            "math": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 4
+                        },
+                        "language_summary": {
+                            "c++": 7,
+                            "monoc#": 3,
+                            "c#10": 1,
+                            "c#8": 1
+                        }
+                    }
+                },
+                "aggregated_data": {
+                    "total_submissions": 133,
+                    "correct_submissions": 84,
+                    "wrong_submissions": 49,
+                    "unique_problems_solved": 84,
+                    "tags_summary": {
+                        "array": 39,
+                        "matrix": 2,
+                        "string": 18,
+                        "simulation": 5,
+                        "enumeration": 1,
+                        "sorting": 9,
+                        "stack": 5,
+                        "queue": 1,
+                        "linked_list": 10,
+                        "two_pointers": 14,
+                        "tree": 9,
+                        "binarytree": 9,
+                        "hash_table": 7,
+                        "greedy": 2,
+                        "binary_search": 8,
+                        "dfs": 7,
+                        "breadthfirstsearch": 3,
+                        "recursion": 8,
+                        "bit_manipulation": 11,
+                        "math": 17,
+                        "design": 1,
+                        "backtracking": 2,
+                        "dp": 6,
+                        "divide_and_conquer": 5,
+                        "trie": 1,
+                        "monotonicstack": 1,
+                        "data_structures": 1,
+                        "implementation": 3,
+                        "brute_force": 1
+                    },
+                    "difficulty_summary": {
+                        "Easy": 51,
+                        "Medium": 32,
+                        "Hard": 1
+                    },
+                    "language_summary": {
+                        "c++": 81,
+                        "python": 6,
+                        "monoc#": 3,
+                        "c#10": 1,
+                        "c#8": 1
+                    }
+                }
+            }
+        },
+        "Avani_Payasi": {
+            "leetcode": "avani_p_21",
+            "codeforces": "avanipayasi7",
+            "data": {
+                "platforms": {
+                    "leetcode": {
+                        "total_submissions": 429,
+                        "correct_submissions": 221,
+                        "wrong_submissions": 208,
+                        "unique_problems_solved": 221,
+                        "tags_summary": {
+                            "Array": 101,
+                            "Matrix": 8,
+                            "String": 56,
+                            "Simulation": 12,
+                            "Enumeration": 3,
+                            "Sorting": 21,
+                            "Stack": 9,
+                            "Queue": 4,
+                            "Linked List": 13,
+                            "Two Pointers": 32,
+                            "Tree": 22,
+                            "Binary Tree": 22,
+                            "Hash Table": 45,
+                            "Greedy": 5,
+                            "Binary Search": 20,
+                            "Depth-First Search": 17,
+                            "Breadth-First Search": 10,
+                            "Recursion": 10,
+                            "Sliding Window": 4,
+                            "Bit Manipulation": 19,
+                            "Math": 56,
+                            "Design": 3,
+                            "Brainteaser": 1,
+                            "Game Theory": 2,
+                            "Rolling Hash": 1,
+                            "Backtracking": 7,
+                            "Dynamic Programming": 12,
+                            "Divide and Conquer": 5,
+                            "Trie": 2,
+                            "Monotonic Queue": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 166,
+                            "Medium": 53,
+                            "Hard": 2
+                        },
+                        "language_summary": {
+                            "Java": 219,
+                            "C": 2
+                        }
+                    },
+                    "codeforces": {
+                        "total_submissions": 59,
+                        "correct_submissions": 29,
+                        "wrong_submissions": 30,
+                        "unique_problems_solved": 29,
+                        "tags_summary": {
+                            "implementation": 20,
+                            "binary_search": 2,
+                            "brute_force": 8,
+                            "greedy": 7,
+                            "sorting": 3,
+                            "two_pointers": 1,
+                            "math": 7,
+                            "string": 8,
+                            "probability": 1,
+                            "bit_manipulation": 1,
+                            "geometry": 1
+                        },
+                        "difficulty_summary": {
+                            "Easy": 29
+                        },
+                        "language_summary": {
+                            "java21": 47,
+                            "c": 9,
+                            "java": 3
+                        }
+                    }
+                },
+                "aggregated_data": {
+                    "total_submissions": 488,
+                    "correct_submissions": 250,
+                    "wrong_submissions": 238,
+                    "unique_problems_solved": 250,
+                    "tags_summary": {
+                        "array": 101,
+                        "matrix": 8,
+                        "string": 64,
+                        "simulation": 12,
+                        "enumeration": 3,
+                        "sorting": 24,
+                        "stack": 9,
+                        "queue": 4,
+                        "linked_list": 13,
+                        "two_pointers": 33,
+                        "tree": 22,
+                        "binarytree": 22,
+                        "hash_table": 45,
+                        "greedy": 12,
+                        "binary_search": 22,
+                        "dfs": 17,
+                        "breadthfirstsearch": 10,
+                        "recursion": 10,
+                        "slidingwindow": 4,
+                        "bit_manipulation": 20,
+                        "math": 63,
+                        "design": 3,
+                        "special": 1,
+                        "gametheory": 2,
+                        "rollinghash": 1,
+                        "backtracking": 7,
+                        "dp": 12,
+                        "divide_and_conquer": 5,
+                        "trie": 2,
+                        "monotonicqueue": 1,
+                        "implementation": 20,
+                        "brute_force": 8,
+                        "probability": 1,
+                        "geometry": 1
+                    },
+                    "difficulty_summary": {
+                        "Easy": 195,
+                        "Medium": 53,
+                        "Hard": 2
+                    },
+                    "language_summary": {
+                        "java": 222,
+                        "c": 11,
+                        "java21": 47
+                    }
+                }
+            }
+        }
+    }
+}
