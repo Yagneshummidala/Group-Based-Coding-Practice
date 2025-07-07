@@ -7,3 +7,4 @@ venv/
 scrapers/test_sample/
 .DS_Store
 Thumbs.db
+groups/*.json
