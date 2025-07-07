@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+.env
+.vscode/
+*.log
+scrapers/test_sample/
+.DS_Store
+Thumbs.db
