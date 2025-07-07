@@ -9,3 +9,5 @@ scrapers/test_sample/
 Thumbs.db
 groups/*.json
 test_sample/*.json
+utils/__pycache__/
+scrapers/__pycache__/
