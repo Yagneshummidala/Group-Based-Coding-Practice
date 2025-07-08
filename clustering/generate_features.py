@@ -70,7 +70,7 @@ def generate_user_feature_vectors():
             diff_dist = source_data.get("difficulty_summary", {})
 
             acc = safe_ratio(correct, total)
-            boost = math.log(1 + unique) / math.log(101)
+            boost = math.log(1 + unique) ** 2
             accuracy_score = acc * boost
 
             tag_vector = [tag_dist.get(tag, 0) for tag in TAG_LIST]

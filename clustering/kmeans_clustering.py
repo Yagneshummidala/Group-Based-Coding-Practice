@@ -1,4 +1,6 @@
 import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import json
 from sklearn.cluster import KMeans
 from clustering.generate_features import generate_user_feature_vectors
@@ -10,7 +12,7 @@ OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "clusters.json")
 # --- Run Clustering on 180D Vectors ---
 def run_kmeans_clustering():
     full_feature_map = generate_user_feature_vectors()
-
+    
     # Extract base usernames (before ::platform)
     user_set = set()
     for key in full_feature_map:

@@ -100,3 +100,5 @@ def knn_within_cluster(username, k=3):
 
     similarities.sort(key=lambda x: x[1], reverse=True)
     return similarities[:k]
+
+print(knn_within_cluster("kurva_ravi_shanker"))

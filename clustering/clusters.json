@@ -1,5 +1,5 @@
 {
-  "cluster_7": [
+  "cluster_4": [
     "228r1a05f2",
     "aditya_raj",
     "akkati_karthik_reddy",
@@ -10,6 +10,7 @@
     "bandaru_durga_vara_teja",
     "bonasu_daamesh_sai_venkata_nagender_kumar",
     "ch_sai_harshini",
+    "chakrala_agnivesh",
     "chappetarithvikreddy",
     "chippa.sravan_kumar",
     "chitturi_madhu_seetaram",
@@ -21,7 +22,6 @@
     "edulapuram_sreeja",
     "g_mahesh_sai_nadh",
     "gadeela_akhil_reddy",
-    "gangapuram_naveen",
     "guduri_praveen_varma",
     "gunti_srikanth",
     "j_gnaneshwari",
@@ -55,10 +55,10 @@
     "tanvi_kakarala",
     "umanandini",
     "velisoju_ajay_kumar",
-    "yelagam_shashi_kumar",
-    "yemke_krishna"
+    "vemula_rishi_koushik",
+    "yelagam_shashi_kumar"
   ],
-  "cluster_0": [
+  "cluster_3": [
     "a_ramya_sree",
     "anil_rachapalli",
     "are_harshini",
@@ -75,6 +75,7 @@
     "gaddam_aishwarya_chandra",
     "gandu_poojitha",
     "gangam_dilip_reddy",
+    "gangapuram_naveen",
     "garlapati_divija",
     "godala_pavan_kumar",
     "gollapudi_venkata_sriram_charan",
@@ -115,7 +116,6 @@
     "rahul_adithya_yarru",
     "raya.niharika",
     "raziul_islam",
-    "rondla_samyuktha_reddy",
     "sadam_karthik_kumar",
     "simrandeep_kour",
     "singekar_vinay_kumar",
@@ -133,9 +133,10 @@
     "venugopal",
     "vinay_kumar_godari",
     "y_vijay_kumar_goud",
-    "yechuru_soumya"
+    "yechuru_soumya",
+    "yemke_krishna"
   ],
-  "cluster_6": [
+  "cluster_0": [
     "abbagouni_harini_goud",
     "akhil_akkaldevi",
     "asutosh_tripathy",
@@ -178,6 +179,7 @@
     "prudhvi_shankar_aradhyula",
     "raghavendra_nidanampalli",
     "rishitha_sheela",
+    "rondla_samyuktha_reddy",
     "s_v_jahnavi",
     "sabavath_shiva",
     "samala_saiteja",
@@ -193,21 +195,17 @@
     "vaddepalli_ashritha",
     "vasam.tirupathi_rao"
   ],
-  "cluster_1": [
+  "cluster_5": [
     "addula_charan_kumar_reddy",
-    "aithagoni_shiva_kumar",
     "akanksha_naik",
     "arsh_goel",
     "bangaru_yeshwanthsai",
     "bodugam_ashritha_reddy",
     "chakali_sathish",
-    "harjot_kaur",
     "jagan_gugulothu",
     "kalapati_phanidhar",
     "lakshmi_vara_prasad",
     "nagamalla_sushma",
-    "navaneeth_alluri",
-    "navodiyula_mansi",
     "p_goutham_reddy",
     "puram_chandra_teja",
     "r_harinath",
@@ -215,7 +213,20 @@
     "soumaysikchi",
     "tejavath_jashwanth"
   ],
-  "cluster_3": [
+  "cluster_7": [
+    "aithagoni_shiva_kumar",
+    "apeksha_mankar",
+    "b_maniteja",
+    "harjot_kaur",
+    "kishan_kumar_biswal",
+    "koushik_srirambhatla",
+    "mohammed_arshia",
+    "navaneeth_alluri",
+    "navodiyula_mansi",
+    "saipreetham_kola",
+    "syed_subhan_uddin"
+  ],
+  "cluster_1": [
     "akash",
     "aluri_anusha",
     "are_laharika",
@@ -225,7 +236,6 @@
     "benny_bandarupalli",
     "bhargavi_pegudoju",
     "bhupathiraju_sai_gopal_varma",
-    "chakrala_agnivesh",
     "dasari_srujan",
     "diddi_bhavana",
     "gadeela_nithin_reddy",
@@ -234,6 +244,7 @@
     "gunasri_moturi",
     "jadi_aravind_sai",
     "katika_reddy_shishira",
+    "kondeboni_mahesh",
     "koteswararao",
     "kusum_kumar_k",
     "maram_lahari",
@@ -257,31 +268,20 @@
     "shekareddy_gari_sathvika",
     "srivardhan_madipadiga",
     "sundaram_pandey",
-    "thotakuri_sai_kiran",
-    "vemula_rishi_koushik"
+    "thotakuri_sai_kiran"
   ],
-  "cluster_5": [
-    "apeksha_mankar",
-    "b_maniteja",
-    "kishan_kumar_biswal",
-    "kondeboni_mahesh",
-    "koushik_srirambhatla",
-    "mohammed_arshia",
-    "saipreetham_kola",
-    "syed_subhan_uddin"
+  "cluster_6": [
+    "bhavitha_pallapu",
+    "ramlal_heman_babu",
+    "yadaram_madhu_chary"
   ],
   "cluster_2": [
-    "bhavitha_pallapu",
     "bishwas_reddy_jonnalagadda",
     "katasani_venkata_pandu_ranga_reddy",
     "kshatri_jeetendra_sree_singh",
     "kurva_ravi_shanker",
     "p.vinay",
     "sathwik_reddy_gaddam",
-    "ummidala_yagnesh",
-    "yadaram_madhu_chary"
-  ],
-  "cluster_4": [
-    "ramlal_heman_babu"
+    "ummidala_yagnesh"
   ]
 }
